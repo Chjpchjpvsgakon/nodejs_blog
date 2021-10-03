@@ -1,0 +1,33 @@
+{
+  "name": "relearn2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chjpchjpvsgakon/nodejs_blog.git"
+  },
+  "keywords": [
+    "halo",
+    "nodejs",
+    "2021",
+    "node",
+    "js"
+  ],
+  "author": "longhalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chjpchjpvsgakon/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/Chjpchjpvsgakon/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
